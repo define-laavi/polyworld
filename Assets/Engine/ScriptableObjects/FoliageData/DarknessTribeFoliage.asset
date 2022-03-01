@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4945b4ba41dc8fa43be4bd4062f478fa, type: 3}
+  m_Name: DarknessTribeFoliage
+  m_EditorClassIdentifier: 
+  scale: 0.013
+  objects:
+  - {fileID: 424838, guid: b5159aaa83d5a21468c956268b7d5434, type: 3}
+  - {fileID: 431390, guid: 51f5278d490af4b41849b4e2dd36b7a5, type: 3}
+  - {fileID: 418124, guid: a9b9e80a6e9f2e84d8df548b8a832b25, type: 3}

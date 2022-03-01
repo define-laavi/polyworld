@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd8c1148a0bfb5e42bfad7c455454e7f, type: 3}
+  m_Name: DesertTribe
+  m_EditorClassIdentifier: 
+  tribeGrassColor: {r: 0.73333335, g: 0.6666667, b: 0.44705883, a: 0}
+  tribeSandColor: {r: 0.88235295, g: 0.6666667, b: 0.44705883, a: 0}
+  tribeDirtColor: {r: 0.88235295, g: 0.6666667, b: 0.44705883, a: 0}
+  tribeFoliage: {fileID: 11400000, guid: 087d8a8b4e6a7a24b9e5b156e689da04, type: 2}
+  tribeFoliageAmountPerCell: 1
